@@ -1,2 +1,2 @@
-# izamulfikri.github.io
-Learning Website
+# Learnig
+
